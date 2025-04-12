@@ -79,5 +79,5 @@ Proyek ini berlisensi MIT. Bebas digunakan dan dimodifikasi dengan menyertakan k
 
 Website ini dibangun untuk mendukung transparansi dan pengelolaan hutan yang berkelanjutan 🌍🌿
 
-> Dibuat oleh: [bach619](https://github.com/bach619) 🙌
+> Dibuat oleh: [Boby Mihing](https://github.com/bach619) 🙌
 
