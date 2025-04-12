@@ -31,7 +31,7 @@ export default function ParticlesBackground() {
           modes: {
             repulse: {
               distance: 100,
-              duration: 0.4,
+              duration: 0.6,
             },
           },
         },
@@ -41,7 +41,7 @@ export default function ParticlesBackground() {
           },
           links: {
             color: "#ffffff",
-            distance: 150,
+            distance: 50,
             enable: true,
             opacity: 0.3,
             width: 1,
@@ -59,9 +59,9 @@ export default function ParticlesBackground() {
           number: {
             density: {
               enable: true,
-              area: 800,
+              area: 500,
             },
-            value: 80,
+            value: 90,
           },
           opacity: {
             value: 0.3,
